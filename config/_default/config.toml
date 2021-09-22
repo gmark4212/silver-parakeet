@@ -26,10 +26,10 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
+  userName = "admin"
+  pcName = "digital_prof"
   workDir = "mydir"
-  profile = "profile.txt"
+  profile = "about_us.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -46,9 +46,12 @@ ignoreErrors = ["error-remote-getjson"]
   activityDelay = 5
 
   description = """
-  Hi I am Jane Doe!
-  Nice to meet you!
-
+ Привет. Мы - компания "Диджитал Проф". Мы помогаем компаниям осуществлять
+ цифровую трансформацию их бизнеса используя передовые технологии и инновации
+ в области разработки программного обеспечения. Наша команда состоит из крайне
+ мотивированных и увлеченных профессионалов. Мы готовы разрабатывать облачные решения
+ для любых бизнес-задач, веб и мобильные приложения, решения с использованием 
+ машинного обучения.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -57,14 +60,17 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "our_stack"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
-  files = [ 
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+  stack = [ 
+    ["Python", ""],
+    ["Django", ""],
+    ["Wagtail", ""],
+    ["Vue.js", ""],
+    ["Flutter", ""],
+    ["Go", ""],
+    ["Docker", ""],
+    ["Linux", ""]
   ]
 
 [module]
