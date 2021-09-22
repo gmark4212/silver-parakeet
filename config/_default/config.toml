@@ -45,7 +45,7 @@ ignoreErrors = ["error-remote-getjson"]
   activityDelay = 5
 
   description = """
- Привет. Мы - компания "Диджитал Проф". 
+ Привет. Мы - компания DigitalProf. 
  Помогаем компаниям осуществлять цифровую 
  трансформацию их бизнеса.  
  Используем передовые технологии и инновации 
@@ -56,7 +56,18 @@ ignoreErrors = ["error-remote-getjson"]
  + облачные решения для любых бизнес-задач
  + веб и мобильные приложения 
  + решения с использованием машинного обучения
- ...
+
+ 
+ oooooooooo.    o8o              o8o      .             oooo  ooooooooo.                       .o88o. 
+`888'   `Y8b   `"'              `"'    .o8             `888  `888   `Y88.                     888 `" 
+ 888      888 oooo   .oooooooo oooo  .o888oo  .oooo.    888   888   .d88' oooo d8b  .ooooo.  o888oo  
+ 888      888 `888  888' `88b  `888    888   `P  )88b   888   888ooo88P'  `888""8P d88' `88b  888    
+ 888      888  888  888   888   888    888    .oP"888   888   888          888     888   888  888    
+ 888     d88'  888  `88bod8P'   888    888 . d8(  888   888   888          888     888   888  888    
+o888bood8P'   o888o `8oooooo.  o888o   "888" `Y888""8o o888o o888o        d888b    `Y8bod8P' o888o   
+                    d"     YD                                                                        
+                    "Y88888P'                                                                        
+                                                                                                     
 
  [e-mail] info@digitprof.ru
  [telegram] @digitprof
