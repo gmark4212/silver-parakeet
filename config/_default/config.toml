@@ -29,6 +29,7 @@ ignoreErrors = ["error-remote-getjson"]
   pcName = "digitprof"
   workDir = "mydir"
   profile = "about_us.txt"
+  favicon = “/images/favicon.svg”
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
